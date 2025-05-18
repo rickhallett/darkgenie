@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-**Dark Genie** is a project focused on enabling powerful, voice-activated deep research by programmatically orchestrating AI agents. The Minimum Viable Product (MVP) will allow a user to issue a voice query, which is then processed and delegated to Anthropic's Claude (via its API and web search tool) to conduct in-depth, iterative research by spawning multiple "research instances" or "agents." The resulting research reports will then undergo an AI-driven verification step for accuracy and to identify potential hallucinations before being automatically aggregated, named, and stored in the user's Google Drive.
+**[Dark Genie](https://youtu.be/Qx91ff77yzM?si=Rm9mEomU89bcDwmK)** is a project focused on enabling powerful, voice-activated deep research by programmatically orchestrating AI agents. The Minimum Viable Product (MVP) will allow a user to issue a voice query, which is then processed and delegated to Anthropic's Claude (via its API and web search tool) to conduct in-depth, iterative research by spawning multiple "research instances" or "agents." The resulting research reports will then undergo an AI-driven verification step for accuracy and to identify potential hallucinations before being automatically aggregated, named, and stored in the user's Google Drive.
 
 This project combines a custom orchestration layer with the advanced capabilities of Claude's API and a secondary evaluator LLM to deliver comprehensive and verified research reports from simple voice commands.
 
